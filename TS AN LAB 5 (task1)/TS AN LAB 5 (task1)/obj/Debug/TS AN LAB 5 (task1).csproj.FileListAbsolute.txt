@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\obj\Debug\TS AN LAB 5 (task1).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\obj\Debug\TS AN LAB 5 (task1).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\bin\Debug\TS AN LAB 5 (task1).exe.config
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\bin\Debug\TS AN LAB 5 (task1).exe
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\bin\Debug\TS AN LAB 5 (task1).pdb
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\obj\Debug\TS AN LAB 5 (task1).exe
+C:\Users\User\source\repos\Lab 5\TS AN LAB 5 (task1)\TS AN LAB 5 (task1)\obj\Debug\TS AN LAB 5 (task1).pdb
